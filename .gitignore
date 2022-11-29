@@ -368,8 +368,8 @@ FodyWeavers.xsd
 ## Visual studio for Mac
 ##
 
-.bin/
 .obj/
+.bin/
 
 # globs
 Makefile.in
